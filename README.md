@@ -43,7 +43,7 @@ DELAY 500
 STRING Olá! Isso é um teste automatizado.
 ENTER
 ```
-📚 Créditos
+## 📚 Créditos
 Este projeto é uma modificação do repositório original:
 🔗 [https://github.com/dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
 
