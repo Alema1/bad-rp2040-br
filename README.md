@@ -45,6 +45,6 @@ ENTER
 ```
 📚 Créditos
 Este projeto é uma modificação do repositório original:
-🔗 [https://github.com/dbisu/pico-ducky]github.com/dbisu/pico-ducky
+🔗 [https://github.com/dbisu/pico-ducky](github.com/dbisu/pico-ducky)
 
 Modificações realizadas para compatibilidade com o layout de teclado em Português (Brasil).
