@@ -1,4 +1,4 @@
-# 🦆 Pico Ducky (RP2040) — BadUSB para PT-BR
+# 🦆 Pico Ducky (RP2040) — BadUSB compatível com teclado PT-BR
 
 Este projeto transforma sua placa RP2040 (como o Raspberry Pi Pico) em um dispositivo **BadUSB**, que simula um teclado para executar comandos automaticamente em computadores com sistema configurado em **Português do Brasil** (PT-BR).
 
