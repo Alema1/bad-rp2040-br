@@ -4,6 +4,7 @@ Este projeto transforma sua placa RP2040 (como o Raspberry Pi Pico) em um dispos
 
 > 🔐 Use com responsabilidade. Este projeto é apenas para fins educacionais e testes de segurança autorizados.
 
+*
 ---
 
 ## 🚀 Instalação
